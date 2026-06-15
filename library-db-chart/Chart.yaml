@@ -1,0 +1,6 @@
+apiVersion: v2
+name: library-db
+description: MS SQL Database for Library Management System
+type: application
+version: 1.0.0
+appVersion: "2022-latest"

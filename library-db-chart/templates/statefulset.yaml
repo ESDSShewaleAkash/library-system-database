@@ -42,7 +42,6 @@ spec:
         - name: mssql-storage
           mountPath: /var/opt/mssql
 
-
   volumeClaimTemplates:
   - metadata:
       name: mssql-storage
